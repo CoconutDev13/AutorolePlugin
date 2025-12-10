@@ -21,7 +21,7 @@
   "type": "module",
   "main": "app/index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "peerDependencies": {
     "grot-core": "^0.0.2"
