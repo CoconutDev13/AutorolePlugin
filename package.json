@@ -8,13 +8,13 @@
     "grot",
     "discord-bot"
   ],
-  "homepage": "https://github.com/CoconutDev13/AutorolePlugin#readme",
+  "homepage": "https://github.com/Yamlcord/AutorolePlugin#readme",
   "bugs": {
-    "url": "https://github.com/CoconutDev13/AutorolePlugin/issues"
+    "url": "https://github.com/Yamlcord/AutorolePlugin/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoconutDev13/AutorolePlugin.git"
+    "url": "git+https://github.com/Yamlcord/AutorolePlugin.git"
   },
   "license": "MIT",
   "author": "",
