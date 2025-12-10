@@ -1,0 +1,33 @@
+{
+  "name": "@grotcore/autorole",
+  "version": "0.1.0",
+  "description": "Automatically assigns preset roles to new members when they join the server and provides interactive buttons or modals that let users self-assign additional roles.",
+  "keywords": [
+    "autoroles",
+    "plugin",
+    "grot",
+    "discord-bot"
+  ],
+  "homepage": "https://github.com/CoconutDev13/AutorolePlugin#readme",
+  "bugs": {
+    "url": "https://github.com/CoconutDev13/AutorolePlugin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoconutDev13/AutorolePlugin.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "app/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "grot-core": "^0.0.2"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.3",
+    "tsx": "^4.21.0"
+  }
+}
